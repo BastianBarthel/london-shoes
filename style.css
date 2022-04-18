@@ -7,7 +7,7 @@ FONT SIZE SYSTEM (px)
 */
 
 /* 
-MAIN COLOR: 
+MAIN COLOR: #ffd8a8
 MAIN TINT: 
 GREY COLOR: 
 GREY TINT: 
@@ -60,7 +60,7 @@ header {
 
 h1 {
   margin-bottom: 24px;
-  font-size: 44px;
+  font-size: 52px;
   line-height: 1.1;
   letter-spacing: -1px;
 }
