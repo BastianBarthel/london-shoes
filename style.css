@@ -143,6 +143,11 @@ img {
 }
 
 /* SHOES */
+
+.shoe {
+  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.07);
+}
+
 .shoe-box {
   padding: 24px;
 }
